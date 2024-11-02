@@ -1,0 +1,42 @@
+﻿@model IEnumerable<primerparcial.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h1>Clientes</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Crear Nuevo Cliente</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.Correo)</th>
+            <th>@Html.DisplayNameFor(model => model.Clave)</th>
+            <th>@Html.DisplayNameFor(model => model.FechaCreacion)</th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaModificacion)
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Correo)</td>
+                <td>@Html.DisplayFor(modelItem => item.Clave)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaCreacion)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaModificacion)</td>
+           
+                <td>
+                    <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

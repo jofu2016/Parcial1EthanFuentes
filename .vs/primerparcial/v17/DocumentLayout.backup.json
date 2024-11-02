@@ -1,0 +1,955 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jofue\\source\\repos\\primerparcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\migrations\\20241102095535_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\migrations\\20241102095535_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\paisapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\paisapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\direccionsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\direccionsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\clientesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\clientesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\promocionapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\promocionapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\tipopagoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\tipopagoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\metodopagoclienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\metodopagoclienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\rese\u00F1aclienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\rese\u00F1aclienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\rese\u00F1acliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\rese\u00F1acliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\rese\u00F1acliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\rese\u00F1acliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\promocions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\promocions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\promocions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\promocions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\pais\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\pais\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\pais\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\pais\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\metodopagoclientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\metodopagoclientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\metodopagoclientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\metodopagoclientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\itemcarritocompras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\itemcarritocompras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\itemcarritocompras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\itemcarritocompras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\direccions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\direccions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\direccions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\direccions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\direccionclientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\direccionclientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\direccionclientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\direccionclientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\carritocompras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\carritocompras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\carritocompras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\carritocompras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\itemcarritocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\itemcarritocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\direccioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\direccioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\tipopagoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\tipopagoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\rese\u00F1aclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\rese\u00F1aclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\promocionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\promocionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\metodopagoclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\metodopagoclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\itemcarritocomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\itemcarritocomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\direccionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\direccionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\direccionclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\direccionclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\controllers\\carritocomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\controllers\\carritocomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\primerparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\primerparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\tipopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\tipopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\rese\u00F1acliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\rese\u00F1acliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|c:\\users\\jofue\\source\\repos\\primerparcial\\primerparcial\\models\\metodopagocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DEB910-CA8F-4E75-A8E1-FE42E20CA052}|primerparcial\\primerparcial.csproj|solutionrelative:primerparcial\\models\\metodopagocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MetodoPagoClienteApiController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\MetodoPagoClienteApiController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\MetodoPagoClienteApiController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\MetodoPagoClienteApiController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\MetodoPagoClienteApiController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:32:34.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rese\u00F1aClienteApiController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\Rese\u00F1aClienteApiController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\Rese\u00F1aClienteApiController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\Rese\u00F1aClienteApiController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\Rese\u00F1aClienteApiController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:32:17.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaisApiController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\PaisApiController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\PaisApiController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\PaisApiController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\PaisApiController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:32:01.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DireccionsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\DireccionsApiController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\DireccionsApiController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\DireccionsApiController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\DireccionsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:31:22.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\ClientesApiController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\ClientesApiController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\ClientesApiController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\ClientesApiController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:08:40.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Rese\u00F1aCliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Rese\u00F1aCliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Rese\u00F1aCliente\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Rese\u00F1aCliente\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:31:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241102095535_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Migrations\\20241102095535_InitialCreate.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Migrations\\20241102095535_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Migrations\\20241102095535_InitialCreate.cs",
+              "RelativeToolTip": "primerparcial\\Migrations\\20241102095535_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:55:35.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoPagoApiController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\TipoPagoApiController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\TipoPagoApiController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\TipoPagoApiController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\TipoPagoApiController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:32:52.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromocionApiController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\PromocionApiController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\PromocionApiController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\PromocionApiController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\PromocionApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:33:10.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Rese\u00F1aCliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Rese\u00F1aCliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Rese\u00F1aCliente\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Rese\u00F1aCliente\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:30:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Promocions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Promocions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Promocions\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Promocions\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:30:46.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Promocions\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Promocions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Promocions\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Promocions\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:30:40.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Pais\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Pais\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Pais\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Pais\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:30:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Pais\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Pais\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Pais\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Pais\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:30:14.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\MetodoPagoClientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\MetodoPagoClientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\MetodoPagoClientes\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\MetodoPagoClientes\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:30:05.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\MetodoPagoClientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\MetodoPagoClientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\MetodoPagoClientes\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\MetodoPagoClientes\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:29:56.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\ItemCarritoCompras\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\ItemCarritoCompras\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\ItemCarritoCompras\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\ItemCarritoCompras\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:29:49.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\ItemCarritoCompras\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\ItemCarritoCompras\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\ItemCarritoCompras\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\ItemCarritoCompras\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:29:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Direccions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Direccions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Direccions\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Direccions\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:29:29.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Direccions\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Direccions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Direccions\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Direccions\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:29:17.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\CarritoCompras\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\CarritoCompras\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\CarritoCompras\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\CarritoCompras\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:28:49.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\CarritoCompras\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\CarritoCompras\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\CarritoCompras\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\CarritoCompras\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:28:38.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:27:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\DireccionClientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\DireccionClientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\DireccionClientes\\Edit.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\DireccionClientes\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:27:11.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\DireccionClientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\DireccionClientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\DireccionClientes\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\DireccionClientes\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:26:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Rese\u00F1aClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\Rese\u00F1aClienteController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\Rese\u00F1aClienteController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\Rese\u00F1aClienteController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\Rese\u00F1aClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:32:27.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TipoPagoesController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\TipoPagoesController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\TipoPagoesController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\TipoPagoesController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\TipoPagoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:33:05.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:37:31.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Cliente.cs",
+              "RelativeToolTip": "primerparcial\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:43:19.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Direccion.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\Direccion.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Direccion.cs",
+              "RelativeToolTip": "primerparcial\\Models\\Direccion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:45:01.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DireccionCliente.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\DireccionCliente.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\DireccionCliente.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\DireccionCliente.cs",
+              "RelativeToolTip": "primerparcial\\Models\\DireccionCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:44:32.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "primerparcial\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:43:03.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ItemCarritoCompras.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\ItemCarritoCompras.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\ItemCarritoCompras.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\ItemCarritoCompras.cs",
+              "RelativeToolTip": "primerparcial\\Models\\ItemCarritoCompras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:46:57.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:24:56.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:53:20.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:23:28.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PromocionsController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\PromocionsController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\PromocionsController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\PromocionsController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\PromocionsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:31:58.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\PaisController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\PaisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:31:00.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MetodoPagoClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\MetodoPagoClientesController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\MetodoPagoClientesController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\MetodoPagoClientesController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\MetodoPagoClientesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:30:14.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:43:01.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ItemCarritoComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\ItemCarritoComprasController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\ItemCarritoComprasController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\ItemCarritoComprasController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\ItemCarritoComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:29:36.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DireccionsController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\DireccionsController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\DireccionsController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\DireccionsController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\DireccionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:28:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DireccionClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\DireccionClientesController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\DireccionClientesController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\DireccionClientesController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\DireccionClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:29:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CarritoComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\CarritoComprasController.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Controllers\\CarritoComprasController.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Controllers\\CarritoComprasController.cs",
+              "RelativeToolTip": "primerparcial\\Controllers\\CarritoComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:27:09.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Program.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Program.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Program.cs",
+              "RelativeToolTip": "primerparcial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:54:32.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "primerparcial\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "primerparcial\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:36:16.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\appsettings.json",
+              "RelativeDocumentMoniker": "primerparcial\\appsettings.json",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\appsettings.json",
+              "RelativeToolTip": "primerparcial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T09:52:31.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "primerparcial\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:26:54.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "primerparcial",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\primerparcial.csproj",
+              "RelativeDocumentMoniker": "primerparcial\\primerparcial.csproj",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\primerparcial.csproj",
+              "RelativeToolTip": "primerparcial\\primerparcial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T09:26:17.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Promocion.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Promocion.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\Promocion.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Promocion.cs",
+              "RelativeToolTip": "primerparcial\\Models\\Promocion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:47:10.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CarritoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\CarritoCompra.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\CarritoCompra.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\CarritoCompra.cs",
+              "RelativeToolTip": "primerparcial\\Models\\CarritoCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:46:33.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TipoPago.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\TipoPago.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\TipoPago.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\TipoPago.cs",
+              "RelativeToolTip": "primerparcial\\Models\\TipoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:46:19.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MetodoPagoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\MetodoPagoCliente.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\MetodoPagoCliente.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\MetodoPagoCliente.cs",
+              "RelativeToolTip": "primerparcial\\Models\\MetodoPagoCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:46:07.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Rese\u00F1aCliente.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Rese\u00F1aCliente.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\Rese\u00F1aCliente.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Rese\u00F1aCliente.cs",
+              "RelativeToolTip": "primerparcial\\Models\\Rese\u00F1aCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:45:39.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "primerparcial\\Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\jofue\\source\\repos\\primerparcial\\primerparcial\\Models\\Pais.cs",
+              "RelativeToolTip": "primerparcial\\Models\\Pais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:45:22.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
